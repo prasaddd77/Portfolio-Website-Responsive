@@ -1,20 +1,8 @@
-<<<<<<< HEAD
+
 # Portfolio-Website-Responsive
-=======
-# portfolio_website_responsive
 
 A new Flutter project.
 
-## Getting Started
+A Flutter Responsive Portfolio Website and App.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 61637e5 (First Commit Portfolio Website Responsive)
+Information about user's achievements,certifications, experiences, projects, skills and knowledge provided with animations. 
